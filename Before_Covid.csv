@@ -1,4 +1,4 @@
-Source.Name,open_time,open,high,low,close,volume,close_time,quote_volume,count,taker_buy_base_volume,taker_buy_quote_volume
+Source,open_time,open,high,low,close,volume,close_time,quote_volume,count,taker_buy_base_volume,taker_buy_quote_volume
 BTCUSDT-1d-2019-09.csv,1.5692E+12,9930.13,9930.13,9930.13,9930.13,0.001,1.56928E+12,9.93013,1,0,0
 BTCUSDT-1d-2019-09.csv,1.56928E+12,9637.93,9665.05,7996.45,8519.67,202.350799,1.56937E+12,1739432.089,2345,125.935464,1075623.603
 BTCUSDT-1d-2019-09.csv,1.56937E+12,8528.12,8724.77,8247.78,8435.28,55.417971,1.56946E+12,469361.6906,763,29.059427,246049.2051
